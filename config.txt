@@ -1,2 +1,2 @@
-features=login,payment
+features=login,search,payment
 timeout=30
